@@ -3,7 +3,7 @@
 
 # NOTE: THIS IS ALL UNDER DEV FOR THIS UPCOMING SEMESTER -- this is all copied from Spring 2020
 
-This is a hastily assembled group of course materials for IS542 at the iSchool, UIUC.  Please excuse our dust.
+These are the course materials for IS507 (previously IS542) at the iSchool, University of Illinois, Urbana-Champaign.  
 
 If you see any bugs or errors please issue a PR -- always looking to make things better!
 
@@ -12,7 +12,7 @@ If you see any bugs or errors please issue a PR -- always looking to make things
 
 Each week consists of lecture slides and prep-notebooks in the programming language R along with suggested resources, homeworks and readings.  The readings consist of what was "required" for the course as well as optional extra readings so feel free to take/leave what you'd like.
 
-Below is the outline of the course, with links to the individual folders for each week.  Each folder contains (IN PROGRESS):
+Below is the outline of the course, with links to the individual folders for each week.  Each folder contains:
  1. an "README.md" file which lists the suggested readings and homeworks, datasets and any extra resources for the week
  1. The lecture slides (as a pdf)
  1. Prep coding notebooks used for the "live coding" portions of class which generally happened after the lecture portion (.ipynb files) **BUT** sometimes we swtich between the lecture slides & R.  This will be denoted in the slides as well as R.
@@ -48,7 +48,7 @@ Example [syllabus here](IS542AO_syllabus.pdf).
 This course is based off of the following textbooks:
 
 #### Required
-   * [OIS]: OpenIntro Statistics, **3rd Edition** which can be found on [amazon](https://www.amazon.com/OpenIntro-Statistics-CreateSpace-David-Diez/dp/1943450048/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=GM58G07HV34YWYGD0JRP) or in [free pdf form](http://www.tf.uns.ac.rs/~omorr/radovan_omorjan_003_prII/r-examples/os3.pdf).  **NOTE: we will likely move to the 4th Edition next semester.**
+   * [OIS]: OpenIntro Statistics, **4th Edition** which can be found on [amazon](https://www.amazon.com/OpenIntro-Statistics-Fourth-David-Diez/dp/1943450072) or in [free pdf form -- make sure you select "The Book" for free version](https://leanpub.com/openintro-statistics). 
    * [ITR] An Introduction to R, available as a [pdf](https://cran.r-project.org/doc/manuals/R-intro.pdf).
    * [ISL] An Introduction to Statistical Learning, click on the `Download the PDF` link [here](http://faculty.marshall.usc.edu/gareth-james/ISL/).
    
