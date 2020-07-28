@@ -1,40 +1,37 @@
-# Week 13: Intro to classification & Logistic Regression
+# Week 13: Classification with KNN & Beginning Model Selection with CV & Bootstrapping
 
-We'll discuss Logistic Regression which is a stepping stone to classification.
+We'll discuss classification with K-Nearest-Neighbors.  We'll start to think about model selection as well.
+
 
 ## Class outline
 
- 1. [Lecture](lecture13_s2020_toupload.pdf)
- 1. [Notebook: Logistic Regression](prep_logisticRegression_donnerParty_part1.ipynb)
-      * See [as an Rscript](Rscripts/prep_logisticRegression_donnerParty_part1_week13.R) 
+ 1. [Lecture](lecture14_s2020_toupload.pdf)
+ 1. [Notebook: Intro to KNN](prep_knn_part1.ipynb)
+    * See [as an Rscript](Rscripts/prep_knn_week14_part1.R) 
 
 	
 
 ## Reading
 
-Classification, Logistic Regression: OIS 8.4, ISL 3.5, 4.0-4.3
+Classification, KNN: ISL 2.2.3, 4.6.5 & Beginning Model Selection (CV, Bootstrapping): Ch. 5
 
-**Optional** Reading: If you've bought the "Hands-On Machine Learning" book topics covered today are also covered in Ch. 4 especially pages 107-112 (Linear regression) and 136-141 (Logistic regression).
-
-**Optional** Reading: If we have time we will look over https://www.datacamp.com/community/tutorials/logistic-regression-R
+**Optional** reading (from the course https://idc9.github.io/stor390/ ): 
+  1. Classification: https://idc9.github.io/stor390/notes/classification/classification.html
+  2. KNN & cross validation: https://idc9.github.io/stor390/notes/cross_validation/cross_validation.html
 
 Packages to install (with command: install.packages("PACKAGE\_NAME") or install.packages(PACKAGE\_NAME) ):
- 1. psych
- 2. car
- 3. manipulate
- 4. tigerstats
- 5. alr3
- 6. mvtnorm
- 7. flexclust
- 8. class
- 9. tidyverse
- 10. stringr
- 11. e1071
- 12. glmnet
- 13. caret
+ 1. mvtnorm
+ 2. flexclust
+ 3. class
+ 4. tidyverse
+ 5. stringr
+ 6. e1071
+ 7. glmnet
 
 ## [Homework](homework.md)
 
 ## References
  
- * Montana's course - http://www.math.montana.edu/courses/s217
+ * https://idc9.github.io/stor390/notes/cross_validation/cross_validation.html
+ * https://stats.stackexchange.com/questions/21572/how-to-plot-decision-boundary-of-a-k-nearest-neighbor-classifier-from-elements-o
+

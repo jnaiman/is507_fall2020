@@ -1,9 +1,9 @@
 # Week 12: Homework
 
-OIS: 8.4, 8.6, 8.8, 8.10
+OIS: 8.16
 
-ISL: 3.7.14, 3.7.15
+ISL: 4.7.6, 4.7.10a-d
 
-NOTE #1: For ISR 3.7.15, please ignore any categorical variables in your analysis
+For a warmup, you can try ISL Labs 4.6.1, 4.6.2, 4.6.5.  You do *NOT* have to turn anything in on these labs.
 
-NOTE #2: You might want to check out ISL labs 3.6.3, 3.6.4 & 3.6.5.  You don't need to submit any of this work, and it is completely optional to do these labs.
+NOTE: The labs describe what the "confusion matrix" is.

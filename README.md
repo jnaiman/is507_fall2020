@@ -33,12 +33,12 @@ Example [syllabus here](IS542AO_syllabus.pdf).
 | [Week 06](week06) | The Normal & Binomial Distributions |
 | [Week 07](week07) | Foundations for Inference |
 | [Week 08](week08) | Hypothesis testing: Normal, T-distribution, and single proportions |
-| Week 09 | Break |
-| [Week 10](week10) | Hypothesis testing: Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
-| [Week 11](week11) | Linear Regression |
-| [Week 12](week12) | Multiple Linear Regression |
-| [Week 13](week13) | Intro to classification & Logistic Regression |
-| [Week 14](week14) | Classification with KNN & Beginning Model Selection with CV & Bootstrapping |
+| [Week 09](week09) | Hypothesis testing: Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models |
+| [Week 10](week10) | Linear Regression |
+| [Week 11](week11) | Multiple Linear Regression |
+| [Week 12](week12) | Intro to classification & Logistic Regression |
+| [Week 13](week13) | Classification with KNN & Beginning Model Selection with CV & Bootstrapping |
+| Week 14 | Break |
 | [Week 15](week15) | Model Selection & Shrinkage Methods for Linear Regression |
 | [Week 16](week16) | Lasso Regression & CV; Intro to PCA; Course wrap-up |
 

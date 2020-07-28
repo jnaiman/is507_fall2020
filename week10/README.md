@@ -1,25 +1,38 @@
-# Week 10: Hypothesis testing: Differences of 2 means/proportions, paired data; ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2" width='40px'> models
+# Week 10: Linear Regression
 
-This week we continue with hypothesis for differences between two means and proportions and paired data.  We'll also cover hypothesis testing using ANOVA and <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models.
+Today we'll cover our first case of model-fitting: Linear Regression.
 
 ## Class outline
 
- 1. [Lecture](lecture9_s2020_toupload.pdf)
- 1. [Notebook #1: Starting <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models](prep_starting_chi_squared_part1.ipynb)
-	* See [as an Rscript](Rscripts/prep_starting_chi_squared_week09_part1.R)	
- 1. [Notebook #2: Using ANOVA models](prep_usingANOVA_part2.ipynb)
+ 1. [Lecture](lecture11_s2020_toupload.pdf)
+ 1. [Notebook #1: Starting Linear Regression](prep_linearRegression_part1.ipynb)
+	* See [as an Rscript](Rscripts/prep_linearRegression_part1.R)	
+	* Data:  beersbac.csv([view](beersbac.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week11/beersbac.csv))
+ 1. [Notebook #2: Hubbles Law using Linear Regression](prep_hubblesExample_part2.ipynb)
 	* See [as an Rscript](Rscripts/prep_usingANOVA_week09_part2.R)	
-	* Data:  diet.csv([view](diet.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week10/diet.csv))
+	* Data:  hubble.csv([view](hubble.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week11/hubble.csv))
+	
+**Extra:** Hubble's data processing (Python) and original data [linked here](fullHubbleData).
 
 ## Reading
 
-OIS Ch. 4.5, 5.2, 5.3, 5.5, 6.2, 6.3
+Linear Regression: OIS Ch. 7 & ISL 3.0 - 3.1
 
-**Optional** Reading: MIS 2.5, MIS 5 (esp. 5.9) for chi-squared, MIS 3-4 for ANOVA (esp. 4.2).  Both Ch. 5 and Ch. 3-4 in MIS go into a LOT more detail than we are going to.
+**Optional** Reading: MIS Ch 7.
+
+Note: The rest of the class will be some "Machine Learning" methods and concepts.  If you want to continue on with this after class, I recommend "Hands-On Machine Learning" - it is Python based: (https://www.amazon.com/gp/product/1491962291 or the 2nd edition with Tensorflow 2).  If you get this book, Ch. 1 & 2 are good introductions to these sorts of processes.  
+
+Packages to install (with command: install.packages("PACKAGE_NAME") or install.packages(PACKAGE_NAME) ):
+ 1. psych
+ 2. effects (Note: this may not install on all machines, but don't worry it is not essential)
+ 3. corrplot
+ 4. car
+ 5. manipulate
+ 6. tigerstats
 
 ## [Homework](homework.md)
 
 ## References
  
- * http://www.stat.columbia.edu/~martin/W2024/R3.pdf
- * https://bioinformatics-core-shared-training.github.io/linear-models-r/ANOVA.html
+ * Montana's course - http://www.math.montana.edu/courses/s217
+ * Hubble's law - http://adamdempsey90.github.io/python/dark_energy/dark_energy.html
