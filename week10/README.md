@@ -16,7 +16,7 @@ Today we'll cover our first case of model-fitting: Linear Regression.
 
 ## Reading
 
-Linear Regression: OIS Ch. 7 & ISL 3.0 - 3.1
+OIS Ch. 8 & ISL 3.0 - 3.1
 
 **Optional** Reading: MIS Ch 7.
 
@@ -30,7 +30,6 @@ Packages to install (with command: install.packages("PACKAGE_NAME") or install.p
  5. manipulate
  6. tigerstats
 
-## [Homework](homework.md)
 
 ## References
  

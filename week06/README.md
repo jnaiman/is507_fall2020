@@ -19,7 +19,6 @@ This week we'll focus more on the Binomial Distribution and relate it to the Nor
 
 ## Reading
 
-Review of OIS 3.1-3.2; OIS 3.3-3.5
+Review of OIS 4.1; OIS 4.2-4.4
 
-## [Homework](homework.md)
 

@@ -14,7 +14,7 @@ We'll discuss model and parameter selection using Cross Validation (for KNN), an
 
 ## Reading
 
-Model Selection & Shrinkage Methods for Linear Regression: ISL Ch 5., 6.0-6.5
+ISL Ch 5., 6.0-6.5 (6.3 is covered lightly)
 
 **Optional** reading (from the course https://idc9.github.io/stor390/ ): 
  1. Classification: https://idc9.github.io/stor390/notes/classification/classification.html
@@ -29,7 +29,6 @@ Packages to install (with command: install.packages("PACKAGE\_NAME") or install.
  6. e1071
  7. glmnet
 
-## [Homework](homework.md)
 
 ## References
  

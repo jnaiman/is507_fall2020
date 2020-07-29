@@ -13,11 +13,10 @@ This week we continue with hypothesis for differences between two means and prop
 
 ## Reading
 
-OIS Ch. 4.5, 5.2, 5.3, 5.5, 6.2, 6.3
+OIS Ch. 6.2, 6.3, 7.2, 7.3, 7.5
 
 **Optional** Reading: MIS 2.5, MIS 5 (esp. 5.9) for chi-squared, MIS 3-4 for ANOVA (esp. 4.2).  Both Ch. 5 and Ch. 3-4 in MIS go into a LOT more detail than we are going to.
 
-## [Homework](homework.md)
 
 ## References
  

@@ -12,7 +12,7 @@ We'll discuss Logistic Regression which is a stepping stone to classification.
 
 ## Reading
 
-Classification, Logistic Regression: OIS 8.4, ISL 3.5, 4.0-4.3
+OIS 9.5, ISL 3.5, 4.0-4.3
 
 **Optional** Reading: If you've bought the "Hands-On Machine Learning" book topics covered today are also covered in Ch. 4 especially pages 107-112 (Linear regression) and 136-141 (Logistic regression).
 
@@ -33,7 +33,6 @@ Packages to install (with command: install.packages("PACKAGE\_NAME") or install.
  12. glmnet
  13. caret
 
-## [Homework](homework.md)
 
 ## References
  

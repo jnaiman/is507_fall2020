@@ -17,7 +17,7 @@ Today we'll extend our Linear Regression to include multiple explanatory variabl
 
 ## Reading
 
-Multiple Linear Regression: OIS 8.1-8.3 & ISL 3.2-3.5
+OIS 9.1-9.4 & ISL 3.2-3.4 (ISL 3.5 is briefly touched on, we go into more detail next week)
 
 **Optional** Reading: MIS Ch. 8.1-8.3; Ch 2.8 (issues with p-values)
 
@@ -29,7 +29,6 @@ Packages to install (with command: install.packages("PACKAGE_NAME") or install.p
   5. manipulate
   6. tigerstats
 
-## [Homework](homework.md)
 
 ## References
  

@@ -10,11 +10,9 @@ This week we continue with hypothesis testing with the Normal & T Distributions.
 
 ## Reading
 
-OIS 4.3, 4.4, 5.1, 6.1, (6.3 time permitting)
+OIS 5.1 (all), 5.3, 6.1, 7.1 (all), (6.3 time permitting)
 
 **Optional** reading: MIS 2.5
-
-## No homework this week - Midterm assigned
 
 ## References
 

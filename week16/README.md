@@ -14,7 +14,7 @@ We'll keep thinking about Lasso/Ridge regression for Linear Regression, think a 
 
 ## Reading
 
-Lasso Regression + CV: ISL 6.0-6.5; Intro to Unsupervised learning (PCA): ISL 10.0-10.2
+ISL 6.0-6.5; Intro to Unsupervised learning (PCA): ISL 10.0-10.2
 
 **Optional** reading: https://www.datacamp.com/community/tutorials/pca-analysis-r
 

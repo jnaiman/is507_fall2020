@@ -13,7 +13,7 @@ We'll discuss classification with K-Nearest-Neighbors.  We'll start to think abo
 
 ## Reading
 
-Classification, KNN: ISL 2.2.3, 4.6.5 & Beginning Model Selection (CV, Bootstrapping): Ch. 5
+ISL 2.2.3, 4.6.5 & Beginning Model Selection (CV, Bootstrapping): Ch. 5
 
 **Optional** reading (from the course https://idc9.github.io/stor390/ ): 
   1. Classification: https://idc9.github.io/stor390/notes/classification/classification.html
@@ -28,7 +28,6 @@ Packages to install (with command: install.packages("PACKAGE\_NAME") or install.
  6. e1071
  7. glmnet
 
-## [Homework](homework.md)
 
 ## References
  
