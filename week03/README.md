@@ -18,7 +18,5 @@ This week we'll finish covering categorical data, work on some table proportion 
 	
 ## Reading
 
-OIS 1.5 & 1.7, 2.1-2.3
-
-## [Homework](homework.md)
+OIS 1.4 & 2.2; OIS 3.1-3.3
 

@@ -23,8 +23,6 @@ This week we'll finish covering the Normal Distribution and introduce some math 
 
 ## Reading
 
-OIS 3.1-3.2
+OIS 4.1
 
-
-## [Homework](homework.md)
 

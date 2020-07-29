@@ -12,7 +12,5 @@ This week we introduce the overall structure of the course and go through summar
 	
 ## Reading
 
-This week will be an introduction to the course topics & the R programming language.  If we have time we'll start discussing topics from OIS 1.2, 1.3 & 1.6.
-
-## [Homework](homework.md)
+This week will be an introduction to the course topics & the R programming language.  If we have time we'll start discussing topics from OIS 1.1, 1.2, 1.3 & 2.1.
 

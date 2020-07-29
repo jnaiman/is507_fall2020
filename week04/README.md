@@ -21,9 +21,7 @@ This week we'll finish covering probability theory (frequentist) and start talki
 
 ## Reading
 
-OIS 2.4, 2.5
-
-## [Homework](homework.md)
+OIS 3.4, 3.5  (4.1 - time permitting)
 
 ## [Instructor Notes](instructor_notes.md)
 
