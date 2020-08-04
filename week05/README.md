@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 05: The Normal Distribution
 
 This week we'll finish covering the Normal Distribution and introduce some math concepts we'll need for next week and the Binomial Distribution.

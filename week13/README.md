@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 13: Classification with KNN & Beginning Model Selection with CV & Bootstrapping
 
 We'll discuss classification with K-Nearest-Neighbors.  We'll start to think about model selection as well.

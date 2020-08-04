@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 07: Foundations for Inference
 
 This week we introduce confidence intervals, hypothesis testing, setting the hypothesis.

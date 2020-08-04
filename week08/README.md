@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 08: Hypothesis testing: Normal, T-distribution, and single proportions
 
 This week we continue with hypothesis testing with the Normal & T Distributions.

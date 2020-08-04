@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 04: Random Variables, Continous Probability Distributions
 
 This week we'll finish covering probability theory (frequentist) and start talking about the normal distribution.

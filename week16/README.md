@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 16: Lasso Regression with CV, Extra: Intro to Unsupervised learning (PCA)
 
 We'll keep thinking about Lasso/Ridge regression for Linear Regression, think a little bit about unsupervised learning, and talk about "where to go from here".

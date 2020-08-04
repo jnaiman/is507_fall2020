@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 01: Intro to The Course
 
 This week we introduce the overall structure of the course and go through summary statistics for numerical data (mean, stddev, median, IQR).  We also cover an introduction to R and RStudio.

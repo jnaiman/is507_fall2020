@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 12: Intro to classification & Logistic Regression
 
 We'll discuss Logistic Regression which is a stepping stone to classification.

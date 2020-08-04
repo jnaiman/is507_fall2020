@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 02: Intro to Numerical Data, Intro to R
 
 This week we finish talking about summary statistics for numerical data (mean, stddev, median, IQR) and will work more with R and RStudio.

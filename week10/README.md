@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 10: Linear Regression
 
 Today we'll cover our first case of model-fitting: Linear Regression.

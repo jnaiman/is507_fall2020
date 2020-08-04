@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 11: Multiple Linear Regression
 
 Today we'll extend our Linear Regression to include multiple explanatory variables - Multiple Linear Regression.  We'll also talk about some of the issues that can arise with trusting p-values alone and address issues of "p-hacking" and "data dredging".

@@ -1,5 +1,7 @@
 # IS507, Fall 2020 (taught online, synchronously)
 
+**NOTE: check each week to see if its IN-DEV or READY for each week**
+
 These are the course materials for IS507 (previously IS542) at the iSchool, University of Illinois, Urbana-Champaign.  
 
 If you see any bugs or errors please issue a PR -- always looking to make things better!

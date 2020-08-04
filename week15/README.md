@@ -1,3 +1,5 @@
+# STATUS: IN-DEV
+
 # Week 15: Cross Validation, Model Selection & Shrinkage Methods for Linear Regression
 
 We'll discuss model and parameter selection using Cross Validation (for KNN), and start thinking about Lasso/Ridge regression for Linear Regression.
