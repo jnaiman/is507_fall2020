@@ -6,7 +6,7 @@ This week we finish talking about summary statistics for numerical data (mean, s
 
 ## Class outline
 
- 1. [Lecture](lecture2_s2020_touse.pdf)
+ 1. [Lecture](lecture2_f2020_toupload.pdf)
  1. [Notebook #1: Analyzing Class Data](prep_notebook_classData_week02_part1.ipynb)
     * Data:  formatted\_class\_answers.csv([view](formatted_class_answers.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week02/formatted_class_answers.csv))
 	* See [as an Rscript](Rscripts/prep_class_notes_classData_week02_part1.R)
