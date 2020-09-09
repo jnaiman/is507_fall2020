@@ -1,4 +1,3 @@
-# STATUS: IN-DEV
 
 # Week 03: Intro to Categorical Data, Table Proportions, and Probability Theory
 
