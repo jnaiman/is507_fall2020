@@ -1,5 +1,3 @@
-# STATUS: IN-DEV
-
 # Week 07: Foundations for Inference
 
 This week we introduce confidence intervals, hypothesis testing, setting the hypothesis.
@@ -19,7 +17,7 @@ This week we introduce confidence intervals, hypothesis testing, setting the hyp
 	
 ## Reading
 
-OIS 5.1-5.2 (we'll only briefly mention 5.1.3-5.1.5), Beginning of 5.3, 7.1 (mainly 7.1.1-7.1.2)
+Foundations for Inference: OIS 5.1-5.2 (we'll only briefly mention 5.1.3-5.1.5), Beginning of 5.3, 7.1 (mainly 7.1.1-7.1.2)
 
 **Optional** reading: [Montana's Intermediate Stats Textbook (MIS)](https://scholarworks.montana.edu/xmlui/bitstream/handle/1/2999/Greenwood_Book_2.1.pdf?sequence=9&isAllowed=y), Section 2.5
 

@@ -1,5 +1,3 @@
-# STATUS: IN-DEV
-
 # Week 06: The Normal & Binomial Distributions
 
 This week we'll focus more on the Binomial Distribution and relate it to the Normal distribution covered previously.
