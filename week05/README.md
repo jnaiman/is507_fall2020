@@ -25,4 +25,6 @@ This week we'll finish covering the Normal Distribution and introduce some math 
 
 OIS 4.1
 
+Additionally, we will be talking about qqnorm/qqline plots as a qualitative way to test normality of distributions which is not covered in OIS.  Please watch this ~10 minute video for an explanation:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/smJBsZ4YQZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
