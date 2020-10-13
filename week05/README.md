@@ -27,4 +27,4 @@ OIS 4.1
 
 Additionally, we will be talking about qqnorm/qqline plots as a qualitative way to test normality of distributions which is not covered in OIS.  Please watch this ~10 minute video for an explanation:
 
-[Watch video]("https://www.youtube.com/embed/smJBsZ4YQZw")
+[Watch video](https://www.youtube.com/embed/smJBsZ4YQZw)
