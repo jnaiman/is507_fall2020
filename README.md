@@ -64,6 +64,8 @@ This course is based off of the following textbooks:
 **Totally optional:** To run the Jupyter notebooks with R locally, install [Anaconda](https://www.anaconda.com/distribution/) and then please follow the [instructions for installing R using the Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/).  The easiest way to install packages is through the Anaconda GUI, or you can conda install -- either way you [need to append an `r-` to all packages!](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/)
  
  **NOTE:** There are pay-versions of this software but we assume you are using the free versions.
+ 
+## [References](references.md)
 
 ## TODO
 
