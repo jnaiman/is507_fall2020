@@ -165,10 +165,14 @@ levels(election$PARTY) <- c("Strong Democrat", "Weak Democrat", "Independent-Dem
 
 # install a nice plotting package
 #install.packages("ggplot2") # just run once
-#install.packages("tabplot", dependencies = TRUE) # just run once, make sure you get dependancies
-#  if this gives you a "not available for R version 3.6.2" try:
-#library(devtools)
-#install_github("mtennekes/tabplot")
+
+
+
+####install.packages("tabplot", dependencies = TRUE) # just run once, make sure you get dependancies
+#####  if this gives you a "not available for R version 3.6.2" try:
+####install.packages('devtools')
+####library(devtools)
+####install_github("mtennekes/tabplot")
 
 # Probably do not have to do these:
 #####install.packages("dplyr", dependencies = TRUE)
@@ -180,15 +184,15 @@ levels(election$PARTY) <- c("Strong Democrat", "Weak Democrat", "Independent-Dem
 
 
 #require(ggplot2)
-require(tabplot)
+#require(tabplot)
 
 # ignore all the errors => just masking out variables from other packages
 
 # make pretty plot!
-tableplot(election, select=c(VOTEF,PARTY,EDUC,GENDER),pals=list("BrBG"))
+#tableplot(election, select=c(VOTEF,PARTY,EDUC,GENDER),pals=list("BrBG"))
 
 # Let's pause a moment and see what this is doing:
-help(tableplot)
+#help(tableplot)
 # **PULL OUT HELP BAR**
 
 # Each column we have here is a variable in this dataset.
@@ -218,7 +222,7 @@ election2 <- na.omit(election[,c("VOTEF","PARTY","EDUC","GENDER")])
 
 # Note, we can sort things based on different columns
 # ** play with this by changing sort=1 to other numbers!!!**
-tableplot(election2, select=c(VOTEF,PARTY,EDUC,GENDER),sort=1,pals=list("BrBG"))
+#tableplot(election2, select=c(VOTEF,PARTY,EDUC,GENDER),sort=1,pals=list("BrBG"))
 
 # Let's ask something obvious - is there a relationship between voting party
 #     and who they voted for?
@@ -265,7 +269,7 @@ print(chisq.test(electable))
 #    and voting results (Bush, Gore, Other) in the population.
 
 # We can aid our eyes by sorting by the gender column
-tableplot(election2, select=c(VOTEF,PARTY,EDUC,GENDER),sort=4,pals=list("BrBG"))
+#tableplot(election2, select=c(VOTEF,PARTY,EDUC,GENDER),sort=4,pals=list("BrBG"))
 # In this case, its sort of hard to see - *maybe* more women voted for Gore?
 
 # Let's look at the table:
