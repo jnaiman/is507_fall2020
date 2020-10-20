@@ -6,7 +6,7 @@ This week we continue with hypothesis for differences between two means and prop
 
 ## Class outline
 
- 1. [Lecture](lecture9_s2020_toupload.pdf)
+ 1. [Lecture](lecture9_toupload.pdf)
  1. [Notebook #1: Starting <img src="https://render.githubusercontent.com/render/math?math=\chi^2"> models](prep_starting_chi_squared_part1.ipynb)
 	* See [as an Rscript](Rscripts/prep_starting_chi_squared_week09_part1.R)	
  1. [Notebook #2: Using ANOVA models](prep_usingANOVA_part2.ipynb)
