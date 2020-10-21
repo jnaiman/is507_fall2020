@@ -11,3 +11,6 @@ Currently adding them all here, but they are found scattered in the .R code and 
  1. [Ridge & Lasso regression](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
  1. [PCA tutorial](https://www.datacamp.com/community/tutorials/pca-analysis-r)
  1. [xkcd](https://xkcd.com/)
+ 1. [chi-squared & ANOVA](http://www.stat.columbia.edu/~martin/W2024/R3.pdf)
+ 1. [ANOVA](https://bioinformatics-core-shared-training.github.io/linear-models-r/ANOVA.html)
+
