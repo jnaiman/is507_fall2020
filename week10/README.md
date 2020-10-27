@@ -1,12 +1,10 @@
-# STATUS: IN-DEV
-
 # Week 10: Linear Regression
 
 Today we'll cover our first case of model-fitting: Linear Regression.
 
 ## Class outline
 
- 1. [Lecture](lecture11_s2020_toupload.pdf)
+ 1. [Lecture](lecture10.pdf)
  1. [Notebook #1: Starting Linear Regression](prep_linearRegression_part1.ipynb)
 	* See [as an Rscript](Rscripts/prep_linearRegression_part1.R)	
 	* Data:  beersbac.csv([view](beersbac.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week11/beersbac.csv))
