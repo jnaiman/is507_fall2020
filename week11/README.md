@@ -7,11 +7,12 @@ Today we'll extend our Linear Regression to include multiple explanatory variabl
  1. [Lecture](lecture11_toupload.pdf)
  1. [Notebook #1: Starting Multiple Linear Regression](prep_intro_mlr_part1.ipynb)
 	* See [as an Rscript](Rscripts/prep_week12_intro_mlr.R)	
-	* Data:  beersbac.csv([view](../week11/beersbac.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week11/beersbac.csv))
-	* Data:  snotel\_s.csv from [NRCS](http://www.wcc.nrcs.usda.gov/snotel/Montana/montana.html)([view](snotel_s.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week12/snotel_s.csv))
+	* Data:  beersbac.csv([view](../week10/beersbac.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_fall2020/master/week10/beersbac.csv))
+	* Data:  snotel\_s.csv from [NRCS](http://www.wcc.nrcs.usda.gov/snotel/Montana/montana.html)([view](snotel_s.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_fall2020/master/week11/snotel_s.csv))
  1. [Notebook #2: Hubbles Law Take 2 - using Multiple Linear Regression](prep_HubbleRevisited_part2.ipynb)
 	* See [as an Rscript](Rscripts/prep_week12_part2_HubbleRevisited.R)	
-	* Data:  sn\_data\_out\_lg.csv([view](sn_data_out_lg.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week12/sn_data_out_lg.csv))
+	* Data:  sn\_data\_out\_lg.csv([view](sn_data_out_lg.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_fall2020/master/week11/sn_data_out_lg.csv))
+ 1. [Lecture -- Hubble, Take 2](lecture11_part2_hubble.pdf)
 	
 **Extra:** Hubble's data processing (Python) and original data [linked here](../week11/fullHubbleData).
 
