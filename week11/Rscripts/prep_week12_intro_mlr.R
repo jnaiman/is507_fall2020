@@ -336,3 +336,4 @@ print(summary(m_highEle))
 #F-statistic: 1.941 on 3 and 10 DF,  p-value: 0.187
 
 # compared to the full elevation plot, the adjusted R-sq is much smaller
+

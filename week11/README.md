@@ -1,12 +1,10 @@
-# STATUS: IN-DEV
-
 # Week 11: Multiple Linear Regression
 
 Today we'll extend our Linear Regression to include multiple explanatory variables - Multiple Linear Regression.  We'll also talk about some of the issues that can arise with trusting p-values alone and address issues of "p-hacking" and "data dredging".
 
 ## Class outline
 
- 1. [Lecture](lecture12_s2020_toupload.pdf)
+ 1. [Lecture](lecture11_toupload.pdf)
  1. [Notebook #1: Starting Multiple Linear Regression](prep_intro_mlr_part1.ipynb)
 	* See [as an Rscript](Rscripts/prep_week12_intro_mlr.R)	
 	* Data:  beersbac.csv([view](../week11/beersbac.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week11/beersbac.csv))
