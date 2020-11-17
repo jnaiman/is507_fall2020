@@ -2,7 +2,7 @@
 # Let's plot this using our "contour" function again
 plot2dProbKNN <- function(knn_train_prediction, sample_data, grid_size, prob_cut_off, xmin,xmax, ymin,ymax, 
                           prob, xlabel='x1', ylabel='x2',
-                          col1 = "magenta", col2="blue", ytoggle=1){
+                          col1 = "magenta", col2="blue", ytoggle=1, title="", lwd=1){
   
   x1_new = seq(x1min,x1max,length=grid_size)
   x2_new = seq(x2min,x2max,length=grid_size)
@@ -16,10 +16,11 @@ plot2dProbKNN <- function(knn_train_prediction, sample_data, grid_size, prob_cut
   # Formatting for contour plots (like before)
   prob2 = matrix(prob2, grid_size, grid_size)
   
-  contour(x1_new,x2_new, prob2, levels=prob_cut_off, labels="")
+  contour(x1_new,x2_new, prob2, levels=prob_cut_off, labels="", main=title,lwd=lwd,xlab=xlabel,ylab=ylabel)
   mask = sample_data$y == ytoggle
   points(sample_data$x1[mask], sample_data$x2[mask], col=col1)
   points(sample_data$x1[!mask], sample_data$x2[!mask], col=col2)
+  
   
 }
 
