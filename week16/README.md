@@ -1,5 +1,3 @@
-# STATUS: IN-DEV
-
 # Week 16: Lasso Regression with CV, Extra: Intro to Unsupervised learning (PCA)
 
 We'll keep thinking about Lasso/Ridge regression for Linear Regression, think a little bit about unsupervised learning, and talk about "where to go from here".
@@ -7,7 +5,7 @@ We'll keep thinking about Lasso/Ridge regression for Linear Regression, think a 
 
 ## Class outline
 
- 1. [Lecture](lecture16_s2020_toupload.pdf)
+ 1. [Lecture](lecture16_toupload.pdf)
  1. [Notebook: Model selection with Lasso Regression and CV](prep_model_selection_week16.ipynb)
 	* Data:  ozone2.csv([view](ozone2.csv), [raw](https://raw.githubusercontent.com/jnaiman/is542_spring2020/master/week07/ozone2.csv)) (Ozone data from MIS)
     * See [as an Rscript](Rscripts/prep_model_selection_week16.R) 
